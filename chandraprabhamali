@@ -1,0 +1,3 @@
+git add .
+git commit -m "Added [Category] template by [chandraprabha]"
+git push origin chandraprabha-rahul-mali-category  
